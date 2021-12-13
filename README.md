@@ -9,3 +9,17 @@ SemEval 2022 Task 11: MultiCoNER Multilingual Complex Named Entity Recognition
 
 ### Papers 
 - [NLP Progress](http://nlpprogress.com/english/named_entity_recognition.html)
+
+### Env set up steps
+```
+pip install --upgrade pip
+```
+```
+conda install pytorch torchvision torchaudio -c pytorch
+```
+```
+pip install --upgrade tensorflow
+```
+```
+pip install transformers
+```
