@@ -1,0 +1,5 @@
+1. [NER-BiLSTM-CRF-PyTorch](https://github.com/ZubinGou/NER-BiLSTM-CRF-PyTorch)
+2. [Targer](https://github.com/achernodub/targer)
+3. [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
+4. [NER Pytorch](https://github.com/ZhixiuYe/NER-pytorch)
+5. [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://paperswithcode.com/paper/end-to-end-sequence-labeling-via-bi)
